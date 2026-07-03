@@ -249,22 +249,6 @@ The project integrates embedded systems, mobile development, and AI to provide a
 
 # Next Section
 
-➡️ **Part 2 includes:**
-
-- Professional Experience
-- Achievements
-- Certifications
-- Coding Profiles
-- GitHub Analytics
-- GitHub Streak
-- Top Languages
-- GitHub Trophies
-- Contribution Graph
-- Snake Animation
-- Current Focus (YAML)
-- Connect Section
-- Premium Footer
-
 
 
 
@@ -312,7 +296,7 @@ Building a strong foundation in Software Engineering, Data Structures & Algorith
 
 # Certifications
 
-> *(Update these as you earn them.)*
+
 
 ## AWS
 
