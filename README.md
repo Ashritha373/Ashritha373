@@ -266,138 +266,206 @@ The project integrates embedded systems, mobile development, and AI to provide a
 - Premium Footer
 
 
-Animated Header
-│
-├── Typing Animation
-├── Social Buttons
-├── Portfolio
-├── LinkedIn
-├── Resume Button
-├── Visitor Count
-├── Followers
-└── GitHub Stars
 
-------------------------------------------------
 
-About Me
+---
 
-------------------------------------------------
+# Professional Experience
 
-Open To
+### 🎓 Computer Science Engineering Student
+**VNR Vignana Jyothi Institute of Engineering & Technology**  
+**2024 – Present**
 
-------------------------------------------------
+Building a strong foundation in Software Engineering, Data Structures & Algorithms, Artificial Intelligence, Data Science, Full Stack Development, and Cloud Computing through academics, self-learning, and hands-on projects.
 
-Tech Stack
+#### Key Focus Areas
 
-Languages
-Frontend
-Backend
-AI/ML
-Cloud
-Databases
-Tools
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Web Development
+- Data Structures & Algorithms
+- Cloud Computing
+- Product Development
 
-------------------------------------------------
+#### Skills
 
-AI Expertise Table
+`Python` `Java` `C++` `JavaScript` `Node.js` `TensorFlow` `PyTorch`
+`AWS` `Docker` `Git` `MySQL` `PostgreSQL`
 
-------------------------------------------------
+---
 
-Experience
+# Achievements
 
-✓ Blackbucks Education
-GenAI Prompt Engineering Intern
+<div align="center">
 
-✓ Deloitte Forage
-Data Analytics Job Simulation
+| Recognition | Details |
+|--------------|---------|
+| 🏆 Academic Excellence | Maintaining a **9.5 CGPA** in B.Tech CSE (Data Science) |
+| 🥇 Best Project Award | Smart E-Stick for the Visually Impaired |
+| 💡 AI Projects | Built accessibility-focused AI solutions using Deep Learning |
+| 🚀 Continuous Learning | Actively building software engineering and AI skills |
 
-------------------------------------------------
+</div>
 
-Featured Projects
+---
 
-1. Visual Reasoning for Visually Impaired
+# Certifications
 
-2. Smart E-Stick
+> *(Update these as you earn them.)*
 
-3. Restaurant Website
-(Your Animated UI Project)
+## AWS
 
-4. Animated Portfolio Website
+![](https://img.shields.io/badge/AWS-Coming%20Soon-FF9900?style=for-the-badge&logo=amazonaws)
 
-------------------------------------------------
+## Oracle
 
-Hackathons & Competitions ⭐ NEW
+![](https://img.shields.io/badge/Oracle-Coming%20Soon-F80000?style=for-the-badge&logo=oracle)
 
-🏆 TechnoVista 2K25
+## Cisco
 
-• ML Challenge
+![](https://img.shields.io/badge/Cisco-Coming%20Soon-049FD9?style=for-the-badge&logo=cisco)
 
-• Data Detective
+## NPTEL
 
-• Debug or Die
+![](https://img.shields.io/badge/NPTEL-Coming%20Soon-00599C?style=for-the-badge)
 
-• DQ Codefest
+---
 
-------------------------------------------------
+# Coding Profiles
 
-Workshops
+<div align="center">
 
-☁️ Cloud Craft Workshop
+<a href="https://leetcode.com/u/ashrithareddy003/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-------------------------------------------------
+<a href="https://www.codechef.com/users/ashrithareddy3">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-Achievements
+<a href="https://www.hackerrank.com/profile/ashrithareddyer1">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-🏆 Best Project Award
+</div>
 
-🎓 9.5 CGPA
+---
 
-🤖 AI Projects
+# GitHub Analytics
 
-💡 GenAI Internship
+<div align="center">
 
-------------------------------------------------
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashritha373&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-Certifications
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashritha373&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Blackbucks
+</div>
 
-Deloitte
+---
 
-Cloud Craft Workshop
+# GitHub Streak
 
-------------------------------------------------
+<div align="center">
 
-Coding Profiles
+<img src="https://streak-stats.demolab.com?user=Ashritha373&theme=tokyonight&hide_border=true"/>
 
-LeetCode
+</div>
 
-CodeChef
+---
 
-HackerRank
+# GitHub Trophies
 
-------------------------------------------------
+<div align="center">
 
-GitHub Analytics
+<img src="https://github-profile-trophy.vercel.app/?username=Ashritha373&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-Stats
+</div>
 
-Languages
+---
 
-Contribution Graph
+# Contribution Activity
 
-GitHub Streak
+<div align="center">
 
-GitHub Trophy
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashritha373&theme=tokyo-night&hide_border=true"/>
 
-------------------------------------------------
+</div>
 
-Current Focus
+---
 
-------------------------------------------------
+# Contribution Snake
 
-Let's Connect
+> **After creating this README**, you can enable a GitHub Action to generate the snake animation automatically.
 
-------------------------------------------------
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ashritha373/Ashritha373/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
 
-Footer
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design
+  - Cloud Computing (AWS)
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+
+Building:
+  - AI-Powered Applications
+  - Full Stack Projects
+  - Developer Portfolio
+  - Open Source Contributions
+
+Exploring:
+  - Large Language Models
+  - Generative AI
+  - MLOps
+  - Product Engineering
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Opportunities
+  - Open Source Collaboration
+  - Hackathons
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:ashrithareddyerry@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashritha-reddy-erry-a04a82339/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ashritha373">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ashritha-22tzw5q6u-ashrithareddyerry-4102s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building intelligent software with curiosity, consistency, and a passion for solving real-world problems."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:8B5CF6,100:4F46E5"/>
