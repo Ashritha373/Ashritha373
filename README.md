@@ -264,3 +264,140 @@ The project integrates embedded systems, mobile development, and AI to provide a
 - Current Focus (YAML)
 - Connect Section
 - Premium Footer
+
+
+Animated Header
+│
+├── Typing Animation
+├── Social Buttons
+├── Portfolio
+├── LinkedIn
+├── Resume Button
+├── Visitor Count
+├── Followers
+└── GitHub Stars
+
+------------------------------------------------
+
+About Me
+
+------------------------------------------------
+
+Open To
+
+------------------------------------------------
+
+Tech Stack
+
+Languages
+Frontend
+Backend
+AI/ML
+Cloud
+Databases
+Tools
+
+------------------------------------------------
+
+AI Expertise Table
+
+------------------------------------------------
+
+Experience
+
+✓ Blackbucks Education
+GenAI Prompt Engineering Intern
+
+✓ Deloitte Forage
+Data Analytics Job Simulation
+
+------------------------------------------------
+
+Featured Projects
+
+1. Visual Reasoning for Visually Impaired
+
+2. Smart E-Stick
+
+3. Restaurant Website
+(Your Animated UI Project)
+
+4. Animated Portfolio Website
+
+------------------------------------------------
+
+Hackathons & Competitions ⭐ NEW
+
+🏆 TechnoVista 2K25
+
+• ML Challenge
+
+• Data Detective
+
+• Debug or Die
+
+• DQ Codefest
+
+------------------------------------------------
+
+Workshops
+
+☁️ Cloud Craft Workshop
+
+------------------------------------------------
+
+Achievements
+
+🏆 Best Project Award
+
+🎓 9.5 CGPA
+
+🤖 AI Projects
+
+💡 GenAI Internship
+
+------------------------------------------------
+
+Certifications
+
+Blackbucks
+
+Deloitte
+
+Cloud Craft Workshop
+
+------------------------------------------------
+
+Coding Profiles
+
+LeetCode
+
+CodeChef
+
+HackerRank
+
+------------------------------------------------
+
+GitHub Analytics
+
+Stats
+
+Languages
+
+Contribution Graph
+
+GitHub Streak
+
+GitHub Trophy
+
+------------------------------------------------
+
+Current Focus
+
+------------------------------------------------
+
+Let's Connect
+
+------------------------------------------------
+
+Footer
