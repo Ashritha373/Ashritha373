@@ -382,11 +382,10 @@ Building a strong foundation in Software Engineering, Data Structures & Algorith
 
 > **After creating this README**, you can enable a GitHub Action to generate the snake animation automatically.
 
-```html
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ashritha373/Ashritha373/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
 
 ---
 
