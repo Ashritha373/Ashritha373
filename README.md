@@ -45,7 +45,7 @@
 
 # About Me
 
-I'm **Erry Ashritha Reddy**, a Second-Year **Computer Science Engineering (Honors - Data Science)** student passionate about designing intelligent software solutions that solve meaningful real-world problems.
+I'm **Erry Ashritha Reddy**, a Third-Year **Computer Science Engineering (Honors - Data Science)** student passionate about designing intelligent software solutions that solve meaningful real-world problems.
 
 My engineering journey is driven by curiosity, continuous learning, and building impactful products using Artificial Intelligence, Data Science, and Full Stack Development.
 
